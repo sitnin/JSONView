@@ -1,2 +1,8 @@
+JSONView
 Makefile
-
+moc_mainwindow.cpp
+ui_mainwindow.h
+*.o
+*~
+core
+*.core
